@@ -1,0 +1,8 @@
+pillow
+colorthief
+pdftotext
+pdf2img
+pandas
+numpy
+scikit-learn
+joblib
