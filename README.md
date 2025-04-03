@@ -13,7 +13,7 @@ pyenv version
 pyenv install 3.13
 pyenv global 3.13
 
-cd transcripts
+cd ed-transcript
 uv venv
 source ./venv/bin/activate
 uv pip install -r requirements.txt
